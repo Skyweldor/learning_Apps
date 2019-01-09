@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Solo Java Ejemplo</string>
+    <string name="edit_text_hint">Nombre Del Cliente</string>
+
+    <string name="toppings_header">Ingredientes</string>
+    <string name="quantity_header">Cantidad</string>
+    <string name="price_header">Precio</string>
+
+    <string name="whipped_cream_topping">Crema Batida</string>
+    <string name="chocolate_topping">Chocolate</string>
+
+    <string name="decrement_sign">-</string>
+    <string name="null_value_quantity">0</string>
+    <string name="increment_sign">+</string>
+
+    <string name="null_value_price">$0</string>
+
+    <string name="order_button">Ordena</string>
+
+    <string name="below_zero_toast">No se puede ir menor de 0 aqui.</string>
+</resources>
